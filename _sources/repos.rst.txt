@@ -3,8 +3,8 @@ Repositories
 
 #. here a class :py:class:`zipfile.ZipFile`
 #. another ref :external:ref:`comparison manual <comparisons>` 
-#. a func :external+trigonometry:py:func:`hypotenuse<mymath.trigonometry.dist.hypotenuse>`
-#. a class :external+arithmetics:py:class:`AddSub<mymath.arithmetics.addsub.AddSub>`
+#. a func :py:func:`hypotenuse<mymath.trigonometry.dist.hypotenuse>`
+#. a class :py:class:`AddSub<mymath.arithmetics.addsub.AddSub>`
 
 
 .. rubric:: Repository Docs
@@ -13,6 +13,6 @@ Repositories
 ==========================================================  =============
 Repos                                                       desc
 ==========================================================  =============
-:external+arithmetics:doc:`My Math Aritmetics<index>`       Aritmetics
-:external+trigonometry:doc:`My Math ~rigonometry<index>`    Trigonometry
+:doc:`My Math Aritmetics<arithmetics:index>`                Aritmetics
+:doc:`My Math Trigonometry<trigonometry:index>`             Trigonometry
 ==========================================================  =============
