@@ -38,6 +38,7 @@ affiliate_options = {
         'canonical_url': "https://oatalha.github.io/"
         }
 
+
 sphinx_affiliates = [
     'https://oatalha.github.io/mymath.arithmetics/affiliate_searchindex.js',
     'https://oatalha.github.io/mymath.trigonometry/affiliate_searchindex.js'
@@ -46,7 +47,7 @@ sphinx_affiliates = [
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_logo = './_static/One-Animation-Logo-Small.png'
 html_favicon = './_static/favicon.ico'
